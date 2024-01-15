@@ -137,7 +137,6 @@ public class System_Terminal{
         }
     }
 }
-
 class Producto {
     private String nombre;
     private double precio;
